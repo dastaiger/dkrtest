@@ -20,7 +20,7 @@
             with:
               aws_access_key: ${{ secrets.AWS_ACCESS_KEY }}
               aws_secret_key: ${{ secrets.AWS_SECRET_KEY }}
-              application_name: Dkrtst
+              application_name: dkr_tst
               environment_name: Dkrtst-env
               existing_bucket_name: elasticbeanstalk-eu-central-1-599028203858
               region: eu-central-1
